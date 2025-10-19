@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/BookFeaw/cinema/movie"
-	"github.com/BookFeaw/cinema/ticket"
+	"github.com/FeawBook/cinema/movie"
+	"github.com/FeawBook/cinema/ticket"
 )
 
 func main() {
